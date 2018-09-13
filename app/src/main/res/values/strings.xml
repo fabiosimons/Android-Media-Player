@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileAppsCoursework</string>
+    <string name="repeatOff">Repeat: Off</string>
+    <string name="repeatSong">Repeat: Song</string>
+    <string name="repeatAll">Repeat: All</string>
+    <string name="shuffleOn">Shuffle: On</string>
+    <string name="shuffleOff">Shuffle: Off</string>
+    <string name="play"> Play </string>
+    <string name="shuffle"> Shuffle </string>
+</resources>
